@@ -1,0 +1,3 @@
+INSERT INTO CreditCard (Card_id,customer_name,credit_card_number, credit_cardlimit,init_balance) VALUES (100,'Alex','1234435554',1000,0);
+INSERT INTO CreditCard (Card_id,customer_name,credit_card_number, credit_cardlimit,init_balance) VALUES (120,'Fiona','876754533',1000,0);
+INSERT INTO CreditCard (Card_id,customer_name,credit_card_number, credit_cardlimit,init_balance) VALUES (130,'Andrew','912434545',1000,0);
